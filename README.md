@@ -12,3 +12,5 @@ In this we will see ci/cd using Git Jenkins Ansible and Docker
 
 ![image](https://user-images.githubusercontent.com/36516080/135743616-7c98216f-52cf-4624-adc6-dff349cf77a7.png)
 
+**Steps**
+- Login to jenkins server and check all required tools like Git (git --version), Maven, Ansible (ansible --version)
